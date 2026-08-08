@@ -1,7 +1,7 @@
 # E-Commerce Customer Churn Prediction & Analysis
 
 **Data Analyst portfolio project — Adham AlHers**
-[Live interactive dashboard](./dashboard/index.html) · [LinkedIn](#) · [Portfolio home](#)
+[Live interactive dashboard](./dashboard/index.html) · [LinkedIn](https://www.linkedin.com/in/adhamalhers/) · [Portfolio home](#)
 
 ## Problem statement
 An online retailer wants to know which customers are at risk of not returning, so retention marketing can target them before they churn — rather than relying on blanket, margin-eroding discounts.
