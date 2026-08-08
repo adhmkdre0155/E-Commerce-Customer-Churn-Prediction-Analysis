@@ -65,8 +65,5 @@ Launch a targeted win-back campaign (personalized offer + re-engagement sequence
 ## Business impact
 Replaces blanket, margin-eroding discount campaigns with a targeted list a retention team can act on directly, and surfaces a country-level pattern (Ireland) worth a dedicated follow-up.
 
-## CV / LinkedIn bullet
-> Built a churn-prediction model (Python/scikit-learn) on 590K+ e-commerce transactions across 4,176 customers; flagged a high-value at-risk segment worth an estimated €1.7M in historical revenue, and identified Ireland as a market-specific retention priority.
-
 ---
 *Dataset is simulated for portfolio purposes, matching the schema and scale of the public Online Retail II dataset. All cleaning, modeling, and SQL logic is fully reproducible.*
